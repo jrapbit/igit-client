@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GitClientApplication<git-client>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.jill.gitclient.GitClientApplication",
+            "projectName": "git-client",
+            "args": ""
+        }
+    ]
+}
